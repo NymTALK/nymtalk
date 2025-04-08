@@ -1,8 +1,4 @@
-# NymTALK - Talk Anonymously
-
-## About
-
-Talk To Anonymous People
+# NymTALK - Talk To Anonymous People
 
 ## Contact
 
