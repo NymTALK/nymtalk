@@ -2,7 +2,7 @@
 
 ## About
 
-NymTALK. Free, secure, and anonymous communication for users worldwide. Connect with random people from around the world while maintaining your anonymity.
+Talk To Anonymous People
 
 ## Contact
 
